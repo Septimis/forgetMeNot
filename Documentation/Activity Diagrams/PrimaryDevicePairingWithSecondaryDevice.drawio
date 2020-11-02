@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T23:59:51.293Z" agent="5.0 (Windows)" etag="OuMKcGg9YZrpN-Wqer8A" version="13.8.8" type="device"><diagram id="o3KW7QgCzo3e-9KRqWMI" name="Page-1">5VhZc9s2EP41Gj/Fw0OkpUdbsdOHZuoZp9PmESJXJGqQYEFQR359FwcvkXLkxgozY2tsC4trsd/3LY6Zv8r2nwQp0s88BjbznHg/8z/OPM91Ag//KcvBWG7mgTEkgsa2UWt4ot+g7mmtFY2h7DWUnDNJi74x4nkOkezZiBB812+24aw/a0ESGBieIsKG1r9oLFNjXXg3rf03oElaz+yGS1OTkbqxXUmZkpjvOib/fuavBOfSfMv2K2AqeHVcTL+HE7WNYwJyeU6HT3erNP1affnjCyzltyCudg+HD64dppSHesUQYwBskQuZ8oTnhN231jvBqzwGNayDpbbN75wXaHTR+A9IebBokkpyNKUyY7YWPRaHv1X/66AufrXD6cLHfa90sCXjq3LwZAzq9fBKRPDCwi0tJREJyBfaBQ1SSHHgGaA/2E8AI5Ju+34Qy7WkadfCgV8sIq9Axzq5JayyM/1ZglAhyCWIUvmfAv69InGsNAZbGsGVWn4kAPIhtIyhbhSEu5RKeCqIjtEOpdsHiJSFEdOG7hXQdxvK2IozLvRA/iZQH7SXUvBn6NSE+gdrEkFiin526tb60+C4BSFh/zKSw8jbDnPHysrmlcAWdx2RWlPa0Wdte3Oo/AFUMy9kOOtdTLf4NZF63ca04bjILjLhvxWvKz6UWja32MANi31bWY/yKACzXUwl5Xk94locz4GrMNMMzCMOdUyWYSlR9OIF5BA3PCNFcXrCH1vUK90+IjbySPYZ3CdmznM4YrE1EUaTHIuRlhQaFCsp5v9bW5HROGanJNPPhG9B62Wf1jdDWrvhCK+9S/Ha9d7pBhGcuUGEU24QwakNgpb6xMF3uZoWfxktlTr5RpW3hDKyZtDsGXor4aoLqFZVYZw1Xa9KnW+IXlezxxyRog/5d7aXNxCKv+gLxXNGlOKNKCW8mFL8d6qU8EylLKZUSnhKKRGj0bPe62qpFFxiDChhDd1/Obb73uRsn79Tti/OZLvrjCP6c+juBpPC4/bAabH6deBZTonOYpCMnqoId+FyU6m+XOWlB9yjKwH1xvxIqBimoZRn66r8SSko6KWg+XwkBbkjKWh5sRQUTpuCJuP48kyO/+jbhe36yKm+2VkiNFft+uTlHgFs/LK9WoxvhSCHTrNCNShfMY/vHFHGjNgSqFnj/+fUcqDMzyhL9UaIuBQQ0c2B5klzIS4Ex2N0do0XU5IpzeXrstBgO92DODbLCmku0krMBgeSEJpfT362cI+unPORp5TRs8XNxYTtnDqs6WgmyN36rFaavInfsgYnkuvHMCogMjFfk+i5Cb3GLcPIz04+k019ugsveJfBYvvkbFTTPtz79/8B</diagram></mxfile>
+<mxfile host="65bd71144e" modified="2020-11-02T02:58:34.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36" etag="PUhR1_tf54dgW7ssXMEe" version="13.6.5">
+    <diagram id="o3KW7QgCzo3e-9KRqWMI" name="Page-1">
+        <mxGraphModel dx="752" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBChhYuTOTe9tz5duwFy-2" target="GBChhYuTOTe9tz5duwFy-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-2" value="&lt;font color=&quot;#000000&quot;&gt;User enters the 'add device' screen&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="50" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBChhYuTOTe9tz5duwFy-3" target="GBChhYuTOTe9tz5duwFy-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Precondition&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;User has opened the app&lt;br&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="70" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBChhYuTOTe9tz5duwFy-5" target="GBChhYuTOTe9tz5duwFy-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-5" value="User is shown a list of available devices to set up as a 'secondary device'" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBChhYuTOTe9tz5duwFy-6" target="GBChhYuTOTe9tz5duwFy-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-6" value="User clicks on a potential device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="320" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GBChhYuTOTe9tz5duwFy-8" target="GBChhYuTOTe9tz5duwFy-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBChhYuTOTe9tz5duwFy-8" target="GBChhYuTOTe9tz5duwFy-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-8" value="Successful or Failure to Pair" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="385" y="440" width="110" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GBChhYuTOTe9tz5duwFy-9" target="GBChhYuTOTe9tz5duwFy-5" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="250" y="210" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-9" value="Message specifying the problem.&amp;nbsp; User is prompted to try again." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="450" width="120" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="GBChhYuTOTe9tz5duwFy-10" value="User is given a success message and directed back to the main screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="600" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
