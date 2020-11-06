@@ -30,12 +30,12 @@ The process will be broken into 6 phases or milestones of development where each
 *Duration*: Initial requirements gathering will take place over a conference call.  Requirement adjustments or addition will continue to occur throughout the development process.
 
 ### **High Level Design**
-*Goal*: Achieve an understanding of the projects processes in a basic sense without any code being written.  This will include low fidelity prototypes and requirements refinement.
+*Goal*: Achieve an understanding of the projects processes in a basic sense without any code being written.  This will include low fidelity prototypes, platform delivery, project architecture, and requirements refinement.
 
 *Duration*: Predicted to take one week to achieve.  Can be adjusted as needed.
 
 ### **Low Level Design**
-*Goal*: Become more specific with processes within the app. High fidelity prototypes will be developed and showcased to clients.  Requirements will continue to be adjusted as needed.
+*Goal*: Become more specific with processes within the project. Describes *how* each part of the project will work. High fidelity prototypes may be created. Requirements will continue to be adjusted as needed.
 
 *Duration*: Predicted to take 2-3 weeks to complete.
 
@@ -53,6 +53,11 @@ The process will be broken into 6 phases or milestones of development where each
 *Goal*: Introduce the application to end users.  Application will be placed on the App Store for iOS devices and the Google Play Store for Android users.
 
 *Duration*: Predicted to take 2 weeks to complete.  Can be adjusted as needed.
+
+### **Maintenance**
+*Goal*: Continue to provide maintenance and updates per the client wishes.
+
+*Duration*: Until no longer required.
 
 ## Policies
 - Primary Form of communication between team members will be through email.
